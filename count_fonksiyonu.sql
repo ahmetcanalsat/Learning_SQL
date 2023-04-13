@@ -9,4 +9,5 @@
 /*SELECT COUNT(*) FROM tblProduct WHERE prod_Name='Buzdolabı' */
 /*Yukarıdaki sorgumuz ile ürün tablomuzda kaç adet 'Buzdolabı' isminde ürün olduğunu yazdırdık.*/
 
-SELECT COUNT(*) FROM tblProduct WHERE prod_Stock>50 AND prod_sellPrice<1000
+/*SELECT COUNT(*) FROM tblProduct WHERE prod_Stock>50 AND prod_sellPrice<1000*/
+/*Yukarıdaki sorgumuz ile ürün tablomuzdan stoğu 50 den fazla ve satış fiyatı 1000 den küçük kaç adet veri var yazdırdık.*/
