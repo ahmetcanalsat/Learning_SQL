@@ -1,5 +1,7 @@
 ﻿USE DbUrunYonetim
 
+/*Eğer ürünlerimizin sayısını değil de toplam stok sayısını bulmak gibi işler yapmak istiyorsak SUM ifadesini kullanılırız.*/
+
 /*SELECT SUM(prod_Stock) FROM tblProduct*/
 /*Yukarıdaki sorgumuzda SUM komutumuz ile PRODUCT tablomuzdaki ürünlerin STOK değerlerinin toplamını yazdırdık.*/
 
