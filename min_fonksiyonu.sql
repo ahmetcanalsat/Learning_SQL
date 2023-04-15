@@ -1,6 +1,6 @@
 ﻿USE DbUrunYonetim
 
-/*MIN Fonksiyonu: Bir tablodaki aritmetik değerler içerisinde ilgili sütuna ait en düşük değeri veren fonksiyondur.*/
+/*MIN Fonksiyonu:Bir tablodaki aritmetik değerler içerisinde ilgili sütuna ait en düşük değeri veren fonksiyondur.*/
 
 /*SELECT MIN(prod_Stock) FROM tblProduct*/
 /*Yukarıdaki komutumuzla PRODUCT tablomuzdaki STOCK sütunu en küçük olan değeri yazdırır.*/
